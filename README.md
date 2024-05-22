@@ -1,4 +1,5 @@
 # Frontend Mentor - Order summary card
+https://ddianalopez.github.io/order-summary-component/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
